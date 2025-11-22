@@ -1,0 +1,24 @@
+# create gitignore content
+# Ignore Python cache files
+__pycache__/
+*.pyc
+.python-version
+# Ignore environment files
+.env
+# Ignore IDE specific files
+.vscode/
+.idea/
+# Ignore system files
+.DS_Store
+# Ignore log files
+*.log
+# Ignore data files
+data/
+# Ignore model checkpoints
+checkpoints/
+# Ignore temporary files
+*.tmp
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore compiled files
+*.so
